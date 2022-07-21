@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/habibayoub.github.io/static/css/main.28c4636f.css",
-    "main.js": "/habibayoub.github.io/static/js/main.fdeeb4d7.js",
-    "static/media/header.png": "/habibayoub.github.io/static/media/header.57d57ad9eef67f74fd52.png",
-    "index.html": "/habibayoub.github.io/index.html",
-    "main.28c4636f.css.map": "/habibayoub.github.io/static/css/main.28c4636f.css.map",
-    "main.fdeeb4d7.js.map": "/habibayoub.github.io/static/js/main.fdeeb4d7.js.map"
+    "main.css": "/static/css/main.27c647e4.css",
+    "main.js": "/static/js/main.edfca080.js",
+    "static/media/header.png": "/static/media/header.57d57ad9eef67f74fd52.png",
+    "index.html": "/index.html",
+    "main.27c647e4.css.map": "/static/css/main.27c647e4.css.map",
+    "main.edfca080.js.map": "/static/js/main.edfca080.js.map"
   },
   "entrypoints": [
-    "static/css/main.28c4636f.css",
-    "static/js/main.fdeeb4d7.js"
+    "static/css/main.27c647e4.css",
+    "static/js/main.edfca080.js"
   ]
 }
